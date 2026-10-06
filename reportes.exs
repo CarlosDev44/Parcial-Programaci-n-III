@@ -1,3 +1,7 @@
+#Carlos Arturo Moreno Arroyave
+#Santiago Padilla Espinosa
+#Julian David Patiño
+
 defmodule Reportes do
   @moduledoc """
   Calcula los datos que se presentan en los reportes del taller.

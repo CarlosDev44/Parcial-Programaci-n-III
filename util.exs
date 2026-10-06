@@ -1,3 +1,7 @@
+#Carlos Arturo Moreno Arroyave
+#Santiago Padilla Espinosa
+#Julian David Patiño
+
 defmodule Util do
   @moduledoc """
   Contiene las constantes del taller y funciones para consultarlas.

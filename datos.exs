@@ -1,3 +1,7 @@
+#Carlos Arturo Moreno Arroyave
+#Santiago Padilla Espinosa
+#Julian David Patiño
+
 defmodule Datos do
   @moduledoc """
   Contiene los confeccionistas, las lineas de produccion y los lotes del taller.

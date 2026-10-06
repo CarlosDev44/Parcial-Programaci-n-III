@@ -1,3 +1,7 @@
+#Carlos Arturo Moreno Arroyave
+#Santiago Padilla Espinosa
+#Julian David Patiño
+
 defmodule Validacion do
   @moduledoc """
   Valida los lotes de produccion segun las reglas del taller.

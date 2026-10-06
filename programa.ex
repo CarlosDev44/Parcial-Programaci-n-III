@@ -1,3 +1,7 @@
+#Carlos Arturo Moreno Arroyave
+#Santiago Padilla Espinosa
+#Julian David Patiño
+
 defmodule Programa do
   @moduledoc """
   Coordina la validacion, liquidacion, reportes e interaccion por consola.

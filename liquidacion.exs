@@ -1,3 +1,7 @@
+#Carlos Arturo Moreno Arroyave
+#Santiago Padilla Espinosa
+#Julian David Patiño
+
 defmodule Liquidacion do
   @moduledoc """
   Calcula el pago de los lotes y la liquidacion de los confeccionistas.
